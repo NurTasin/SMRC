@@ -8,5 +8,7 @@ All post has facility to like and comment.
 This API is free for individual use. For Commercial use contact me.
 
 Email: nmuatasin2005@gmail.com
+
 IG: @nmuatasin
+
 Telegram: @NurTasin_Bot
